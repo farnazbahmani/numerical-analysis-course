@@ -7,6 +7,7 @@ import sys
 def f(x):
     return x**3 - 5*x - 9
 
+# initial value
 a = 2
 b = 3
 e = 0.00001

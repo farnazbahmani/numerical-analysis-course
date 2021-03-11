@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pylab as plt
 import sys
-
+# changes
 
 # root-finding algorithm using bisection method
 def f(x):
